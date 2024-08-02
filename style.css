@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.tourism-card {
+    background-image: url("https://img.freepik.com/free-photo/aerial-shot-people-enjoying-beach-sunny-day_181624-15646.jpg?t=st=1721999150~exp=1722002750~hmac=3bd63ba9f253530cd068a2434fc93284d456f091d314e330b7a64d93524d7b7f&w=360");
+    height: 100vh;
+    background-size: cover;
+}
+
+.text {
+    background-color: white;
+    text-align: center;
+    font-style: normal;
+    font-size: 10px;
+    font-family: Roboto;
+    padding: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
+.button {
+    border-radius: 8px;
+    border-width: 0px;
+    background-color: #26B6AC;
+    font-size: 10px;
+    height:20px;
+    width:80px;
+}
+.paragraph{
+    font-family: "Roboto";
+    font-size: 19px;
+    font-style: normal;
+}
